@@ -1,3 +1,5 @@
+This app will join your Zoom Video SDK session, display videos from all users and detect "banana" from the video. This app is to demostrate using of Zoom Video SDK's Raw Data. It uses OpenCV to detect object. 
+
 ## Generate You JWT
 You much have an account [subscribed](https://marketplace.zoom.us/docs/sdk/video/developer-accounts/) Zoom Video SDK. 
 
